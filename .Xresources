@@ -1,0 +1,51 @@
+! special
+*.foreground:   #f8f8f2
+*.background:   #272822
+*.cursorColor:  #f8f8f2
+
+! black
+*.color0:       #272822
+*.color8:       #75715e
+
+! red
+*.color1:       #f92672
+*.color9:       #f92672
+
+! green
+*.color2:       #3de22e
+*.color10:      #3de22e
+
+! yellow
+*.color3:       #f36443
+*.color11:      #fe6443
+
+! blue
+*.color4:       #04d3e8
+*.color12:      #04d3e8
+
+! magenta
+*.color5:       #7741d7
+*.color13:      #7741d7
+
+! cyan
+*.color6:       #14f3ab
+*.color14:      #14f3ab
+
+! white
+*.color7:       #f8f8f2
+*.color15:      #f9f8f5
+
+!!URxvt Appearance
+URxvt.font: xft:Hack-Regular
+URxvt.boldFont: Hack-Bold
+Urxvt.italicFont: Hack-Italic
+Urxvt.boldItalicfont: Hack-BoldItalic
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urlLauncher: firefox
+URxvt.underlineURLs: true
+URxvt.urlButton: true
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c800
