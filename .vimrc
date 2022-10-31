@@ -20,6 +20,7 @@ Plug 'morhetz/gruvbox'
 Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/nerdtree'
+Plug 'tpope/vim-commentary'
 call plug#end()
 
 colorscheme gruvbox
