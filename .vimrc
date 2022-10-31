@@ -31,8 +31,10 @@ set number
 
 set autoindent
 set cindent
-set shiftwidth=4
 set smartindent
 set smarttab
+set expandtab
+set shiftwidth=4
 set softtabstop=4
+set tabstop=4
 set hlsearch
